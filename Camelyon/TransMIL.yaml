@@ -16,7 +16,7 @@ General:
 Data:
     dataset_name: camel_data
     data_shuffle: False
-    data_dir: Camelyon16/pt_files/
+    data_dir: /data/scratch/DBI/DUDBI/DYNCESYS/mvries/Datasets/pt_files/
     label_dir: dataset_csv/camelyon16/
     fold: 0
     nfold: 4
